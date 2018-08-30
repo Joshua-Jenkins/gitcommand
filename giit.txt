@@ -24,3 +24,12 @@ vim --
 to edit click i
 esc
 to exit: :wq
+
+Commit without vim
+git commit -m 'text somethong'
+
+To Add a branch:
+git branch <name>
+
+to Change Branchs
+git checkout <name>
