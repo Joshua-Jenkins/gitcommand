@@ -24,3 +24,7 @@ vim --
 to edit click i
 esc
 to exit: :wq
+
+Commit without vim
+git commit -m 'text somethong'
+
