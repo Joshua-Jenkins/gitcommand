@@ -28,3 +28,11 @@ to exit: :wq
 Commit without vim
 git commit -m 'text somethong'
 
+<<<<<<< HEAD
+=======
+To Add a branch:
+git branch <name>
+
+to Change Branchs
+git checkout <name>
+>>>>>>> login
