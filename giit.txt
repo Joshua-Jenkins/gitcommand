@@ -17,3 +17,10 @@ git rm --cached <file>
 
 TO ADD EVERYTHING 
 git add .
+
+commit-using vim
+git commit -
+vim --
+to edit click i
+esc
+to exit: :wq
